@@ -18,6 +18,8 @@ A powerful, flexible, and easy-to-use tool for scraping posts from **Facebook**,
   - **Apify Integration**: Quick start with no approval needed (~500-1000 posts free).
   - **Auto-Fallback**: Automatically tries the best available method.
 - 📊 **Data Export**: Save results in structured JSON format for easy analysis.
+- 🔄 **Universal Aggregator**: Dynamic content collector for any social media page.
+- 📂 **Post Loader**: Quick loading and formatting of scraped posts.
 - 🛠️ **Quick Start Scripts**: Ready-to-use scripts for immediate results.
 
 ---
