@@ -140,6 +140,6 @@ For any issues, questions, or feature requests, please open an [Issue](https://g
 
 --- 
 
-**Developed with ❤️ for the Automation Community.**
+**Developed with ❤️ By Aviel.AI for the Automation Community.**
 
 `#SocialMediaScraper` `#FacebookScraping` `#LinkedInScraping` `#TwitterScraping` `#PythonAutomation` `#DataExtraction` `#OSINT` `#Apify` `#SocialMediaAnalytics` `#WebScraping` `#APIIntegration` `#Python` `#OpenSource`
