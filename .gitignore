@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# Configuration (Sensitive Data)
+# scraper_config.json
+
+# Output Files
+*.json
+*.xlsx
+*.html
+*.md
+!README.md
+!AUTOMATION_GUIDE.md
+!FACEBOOK_QUICK_START.md
+
+# OS Files
+.DS_Store
+Thumbs.db
