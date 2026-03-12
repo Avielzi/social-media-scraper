@@ -96,9 +96,20 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
 
-## 📞 Support
+## ⭐ Show Your Support
 
-For issues, questions, or feature requests, please open an [Issue](https://github.com/your-username/social-media-scraper/issues).
+If you find this project useful, please consider giving it a star on GitHub! Your support helps us grow and improve this tool for everyone. 🙏
+
+[![Star on GitHub](https://img.shields.io/github/stars/Avielzi/social-media-scraper?style=social)](https://github.com/Avielzi/social-media-scraper/stargazers)
+
+---
+
+## 📞 Support & Community
+
+For issues, questions, or feature requests, please open an [Issue](https://github.com/Avielzi/social-media-scraper/issues).
+
+Join our community to discuss features, get help, and share your scraping insights!
+
 
 ---
 
